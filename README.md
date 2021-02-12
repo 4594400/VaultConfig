@@ -1,0 +1,2 @@
+# VaultConfig
+Simple Vault Config
